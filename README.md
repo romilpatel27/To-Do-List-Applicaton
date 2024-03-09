@@ -13,7 +13,7 @@
 
 -> Due Date Functionality: Set due dates for your tasks to prioritize and manage your time effectively.
 
--> Sorting Functionality: Sort tasks by due date, completion status, or alphabetically to keep your list organized.
+-> Sorting Functionality: Sort tasks alphabetically to keep your list organized.
 
 -> Mobile Friendly Website: Access your todo list on the go with a mobile-friendly interface.
 
