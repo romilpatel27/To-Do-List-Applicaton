@@ -1,0 +1,4 @@
+.footer {
+  background-image: linear-gradient(to right,  pink, purple);
+  background-color: rgb(253, 237, 255); /* Fallback color */
+}

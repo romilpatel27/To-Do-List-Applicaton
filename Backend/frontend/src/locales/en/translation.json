@@ -1,0 +1,14 @@
+{
+    "sortByTitle": "Sort by Title",
+    "tasksSorted": "Tasks Sorted (A-Z)",
+    "title": "TITLE",
+    "body": "BODY",
+    "dueDate": "Due Date",
+    "add": "Add",
+    "emptyTitleError": "Title can't be empty",
+    "emptyBodyError": "Body can't be empty",
+    "emptyDueDateError": "Due date can't be empty",
+    "deleteConfirmation": "Are you sure you want to delete this task?",
+    "deleteSuccess": "Task deleted successfully!",
+    "deleteError": "An error occurred while deleting the task."
+  }

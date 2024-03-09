@@ -1,0 +1,74 @@
+.todo {
+  width: 100%;
+  min-height: 100vh;
+  max-height: auto;
+  position: relative;
+}
+.todo-inputs {
+  border: none;
+  outline: none;
+}
+
+.todo-inputs-div {
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+#textarea {
+  display: none;
+}
+.todo-card {
+  border: 1px solid black;
+  background-image: linear-gradient(to right, pink , purple);
+}
+.todo-card-p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+.card-icons {
+  font-size: 18px;
+}
+.del {
+  color: rgba(240, 0, 0, 0.87);
+}
+.card-icon-head {
+  background: rgb(224, 224, 224);
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.card-icon-head:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.todo-update {
+  width: 100%;
+  height: 80vh;
+  position: absolute;
+  position: fixed;
+  top: 80px;
+  left: 0px;
+  background-image: linear-gradient(to right, pink , purple);
+  display: none;
+}
+
+.update {
+  height: 100%;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.sort-button {
+  /* Base styles for the button */
+  background-color: pink; 
+  border-radius: 5px;
+}
+
+.sort-button.sorted {
+  /* Styles to indicate sorting is active, e.g., */
+  background-color: purple;
+  border-color: #ccc;
+  color: white;
+  border-radius: 5px;
+}

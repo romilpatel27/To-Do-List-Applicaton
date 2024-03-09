@@ -1,0 +1,14 @@
+{
+    "sortByTitle": "Trier par titre", 
+    "tasksSorted": "Tâches triées (A-Z)", 
+    "title": "TITRE", 
+    "body": "CORPS", 
+    "dueDate": "Date d'échéance", 
+    "add": "Ajouter", 
+    "emptyTitleError": "Le titre ne peut pas être vide", 
+    "emptyBodyError": "Le corps ne peut pas être vide", 
+    "emptyDueDateError": "La date d'échéance ne peut pas être vide", 
+    "deleteConfirmation": "Êtes-vous sûr de vouloir supprimer cette tâche ?",  
+    "deleteSuccess": "Tâche supprimée avec succès !",
+    "deleteError": "Une erreur s'est produite lors de la suppression de la tâche."
+  }
