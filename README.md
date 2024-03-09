@@ -17,6 +17,8 @@
 
 -> Mobile Friendly Website: Access your todo list on the go with a mobile-friendly interface.
 
+-> User friendly with error handling and feedback as well. 
+
 **Demo**
 You can see a live demo of the app here --->  https://to-do-list-applicaton.vercel.app/
 
@@ -28,3 +30,10 @@ Node JS
 HTML5
 CSS3
 JavaScript
+
+How run the Project locally???
+--> download the repository. 
+--> Open the downloaded file on VS Code. 
+--> open the terminal on VS Code and type node **"app.js"** , this will the project locally 
+--> open you default browser and type http://localhost:1000/ .
+--> Congratualtions you gave successfully Ran the Project Locally 
