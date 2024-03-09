@@ -1,7 +1,7 @@
 
 
 
-**This is a simple todo list app that allows you to manage your tasks efficiently. It comes with the following functionality:**
+**This is a todo list app that allows you to manage your tasks efficiently. It comes with the following functionality:**
 
 -> Add Task: Add new tasks to your todo list easily.
 
