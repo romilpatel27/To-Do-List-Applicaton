@@ -10,7 +10,7 @@ router.post("/addTask", async (req, res) => {
     if (existingUser) {
       const list = new List({ title, body, user: existingUser });
       await list.save().then(() => res.status(200).json({ list }));
-      existingUser.list.push(list);
+      existingUser.list.push(list._id);
       existingUser.save();
     }
   } catch (error) {
